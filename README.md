@@ -1,5 +1,5 @@
 
-## User Identification From Walking Activity Data Set 
+## User Identification Model
 
 **Author**: Charley Carriero <br/>
 **Date**: June 20th, 2018
