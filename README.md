@@ -6,7 +6,7 @@
 
 <br/>
 
-Usage Instructions: To run the analysis please clone the repo and launch the jupyter notebook!.
+Usage Instructions: To run the analysis please clone the repo and launch the jupyter notebook!
 
 |Links |
 |-----|
